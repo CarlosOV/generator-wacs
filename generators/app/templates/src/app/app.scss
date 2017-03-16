@@ -1,0 +1,31 @@
+@import "../../node_modules/angular-ui-notification/dist/angular-ui-notification.min";
+body{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+header{
+  font-size: 1rem;
+  padding: 1em;
+  text-align: center;
+  h1{
+    margin: 0;
+    line-height: 127%;
+    font-size: 2em;
+    font-weight: bold
+  }
+  p{
+    font-size: 1.6em;
+    margin: 0;
+  }
+}
+
+.wrapper{
+  font-size: 1rem;
+  padding: 1em 2em;
+}
+
+footer{
+  font-size: 1rem;
+  text-align: center;
+}

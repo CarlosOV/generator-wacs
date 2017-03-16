@@ -1,0 +1,23 @@
+
+.form{
+  font-size: 1.4em;
+  margin-top: 1.2em;
+  &__input{
+    font-size: 1em;
+    height: 2em;
+    line-height: 127%;
+    padding: 0 1em;
+    margin-top: .5em;
+  }
+  &__btn{
+    font-size: 1.4em;
+    background-color: #153b6f;
+    border: 0;
+    color: #fff;
+    padding: .42em 2em;
+    border-radius: .2em;
+  }
+  &__notice{
+    margin-bottom: 1.6em;
+  }
+}
